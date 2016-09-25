@@ -17,6 +17,5 @@
   "node": true,
   "trailing": true,
   "strict": false,
-  "unused": "vars",
-  "undef": true
+  "undef": false
 }
